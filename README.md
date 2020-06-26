@@ -5,6 +5,19 @@ Las maquinas virtuales hoy en día son de gran utilidad para almacenar datos o t
 ### General
 Crear máquinas virtuales en Microsoft Azure, conocer la plataforma los beneficios  que nos brinda para darle uso de forma continua
 
+**Máquina Virtual**
+
+ Es un software que permite emular el funcionamiento de un ordenador dentro de otro mendiante el encapsulamiento que aísla a ambos.Puede ejecutar cualquier sistema operativo o programa, sin que nada de lo que suceda en el interior de esa ventana afecte al ordenador que la ejecuta.
+Se puede trabajar con varios sistemas operativos al mismo tiempo en un mismo ordenador por ejemplo se podria usar Linux y windows.
+
+   ![Img3MaquinaVirtual.png](https://github.com/CFernanda/Maquinas-Virtuales-Amazon-Ec2/blob/master/imagenenes/Img3MaquinaVirtual.png)  
+
+**CLOUD COMPUTING**
+
+  Cloud computing, o computación en nube, se define como una tecnología que ofrece servicios a través de la plataforma de internet.Se puede acceder a este tipo de serviciosde 
+forma  gratuita o de pago, según las necesidades que tenga uno. Este modelo está inspirado en los cajeros automáticos, los que permiten acceder al dinero y servicios disponibles desde cualquier terminal habilitado. Luego esa idea se llevó a la red internet, y es lo que conocemos actualmente como cloud computing. Esta tecnología se destaca por ofrecer todos sus servicios de forma remota a través de esta analogía de "nube virtual", y uno como usuario de este servicio no necesita un dispositivo de última generación para utilizar los servicios de esta nube, ya que todo se ejecuta desde la misma, lo que se traduce en la ausencia de descarga y actualización de software. (Leyton & Fernández, 2010)
+                        
+   ![Imagen1%20Cloud%20Company.png](https://github.com/CFernanda/Maquinas-Virtuales-Amazon-Ec2/blob/master/imagenenes/Imagen1%20Cloud%20Company.png)  
 
 
 MANUAL DE USUARIO
@@ -12,25 +25,67 @@ MANUAL DE USUARIO
 En esta ocasion se puede tener dos opciones si tienes una tarjeta de crédito te diridiras a un link, caso contrario deberás entrar como estudiante teniendo en cuenta que alli también debes verificar tu cuenta si perteneces a alguna institucion, ya que se usara la cuenta educativa.
 Se creo la de estudiante
 la de Estudiante
+ 
+ ![1%20inicio.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/1%20inicio.png)
+
+Se ingresa con el botón verde que se halla en la pantalla principal.
+
+ Se puede usar una cuenta ya existente o crearse crearse una nueva cuenta.(teniendo en cuenta que para crearse este tipo de cuenta se necesita un correo institucional)
+ 
+ ![2%20SELECCION%20O%20CREACION%20DE%20CUENTA.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/2%20SELECCION%20O%20CREACION%20DE%20CUENTA.png)
+
+Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , en cuenta que en un punto te pedirá que confirmes tu correo institucional
+
+![formulariosdeingreso.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/formulariosdeingreso.png)
+
+ y con eso ya se crea una cuenta en Microsoft Azure.
+ **Creación de Maquinas Virtuales**
+ 
+ Para la creacián de la máquina virtual en la página de inicio de **Microsoft Azure**, se ingresa en el botón seleccionado ** Crear un Recurso**
+ 
+ ![Paginade%20InicioMicrosoft.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Paginade%20InicioMicrosoft.png)
+ 
+ A continuación se abre una nueva ventana en la que se tiene todas las opciones de máquinas virtuales que esta nube ofrece.
+ 
+ ![MaquinasVirtualestipos.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/MaquinasVirtualestipos.png)
+ 
+ Escogemos la que necesitemos y le damos  diferentes características segun sea el caso.
+ 
+ - Pimer paso **Datos Básicos** , se describe el nombre del usuario, contraseña, tipos de puertos entre otros todos los campos son obligatorios.
+ 
+ ![primerpaso.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/primerpaso.png)
+ 
+ - Segundo paso es  **Discos**, se puede dejar por defecto o escoger las caracteristicas necesitadas.
+ 
+ ![Discos.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Discos.png)
+ 
+ - Tercer paso es **Redes**
+ 
+ ![Discos.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Discos.png)
+ 
+ - Cuarto paso es **Administración**
+ ![Admnistracion.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Admnistracion.png)
+ 
+ 
+ - Quinto paso es **Opciones Avanzadas**
+ 
+ ![etiquetas.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/etiquetas.png)
+ 
+ - Sexto paso es **Etiquetas**
+ 
+ ![Opciones%20Avanzadas.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Opciones%20Avanzadas.png)
+ 
+ - Último paso **Revizar y Crear**
+ 
+ ![revisar%20y%20crear.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/revisar%20y%20crear.png)
+
+ 
+
+
+ 
 
 
 
-
-2.Click en empiece gratis y se procede a crear o vincular con la cuenta del usuario.
-
-
-
-3.Llenar todas las celdas de verificación para crear una cuenta gratis en Microsoft Azure.
-
-
-
-
-
-4.Abrir el correo estudiantil y acceder al link para la comprobación académica de Microsoft del usuario.
-
-
-
-5.Ya obtenida la cuenta Microsoft se procede a la creación de una máquina virtual. Click en la parte izquierda superior en el siguiente ícono.
 
 
 
