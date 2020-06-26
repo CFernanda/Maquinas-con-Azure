@@ -2,8 +2,8 @@
 ## Introducción
 Las maquinas virtuales hoy en día son de gran utilidad para almacenar datos o trabajar en sistemas operativos totalmente diferentes o incluso los mismos con la finalidad de que todos los datos sean personales o a nivel de empresas tener la certeza de que tus datos quedaran guardados en lugar seguro y habil en cualquier momento y lugar  Microsoft ofrece un servicio para el uso de este tipo de sistemas en su plataforma Azure en la cúal se generara una máquina virtual. 
 
-## Objetivos
-### General
+## Objetivo
+
 Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
 **MÁQUINA VIRTUAL**
