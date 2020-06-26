@@ -1,16 +1,25 @@
 # Maquinas-con-Azure
 ## Introducción
 Las maquinas virtuales hoy en día son de gran utilidad para almacenar datos o trabajar en sistemas operativos totalmente diferentes o incluso los mismos con la finalidad de que todos los datos sean personales o a nivel de empresas tener la certeza de que tus datos quedaran guardados en lugar seguro y habil en cualquier momento y lugar  Microsoft ofrece un servicio para el uso de este tipo de sistemas en su plataforma Azure en la cúal se generara una máquina virtual. 
+
 ## Objetivos
 ### General
-Crear máquinas virtuales en Microsoft Azure, conocer la plataforma los beneficios  que nos brinda para darle uso de forma continua
+Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
-**Máquina Virtual**
+**MÁQUINA VIRTUAL**
 
  Es un software que permite emular el funcionamiento de un ordenador dentro de otro mendiante el encapsulamiento que aísla a ambos.Puede ejecutar cualquier sistema operativo o programa, sin que nada de lo que suceda en el interior de esa ventana afecte al ordenador que la ejecuta.
 Se puede trabajar con varios sistemas operativos al mismo tiempo en un mismo ordenador por ejemplo se podria usar Linux y windows.
 
    ![Img3MaquinaVirtual.png](https://github.com/CFernanda/Maquinas-Virtuales-Amazon-Ec2/blob/master/imagenenes/Img3MaquinaVirtual.png)  
+   
+**MICROSOFT AZURE**
+
+Microsoft Azure ofrece una gama de opciones cuando se trata de la virtualización.
+Con las opciones para usuarios de Linux, Windows Server, SQL Server, Oracle, IBM y SAP, las máquinas virtuales de Azure están disponibles de forma gratuita, con tamaños y niveles de rendimiento para adaptarse a las diferentes necesidades comerciales. Los clientes pueden crear sus propias máquinas virtuales o elegir entre una selección de plantillas preconfiguradas. Azure tiene cientos de opciones de máquinas virtuales para elegir, adaptadas a regiones geográficas particulares, núcleo, RAM y requisitos de almacenamiento, tanto en sistemas operativos Windows como Linux.
+
+ ![1Azure.jpg](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/1Azure.jpg) 
+ 
 
 **CLOUD COMPUTING**
 
@@ -63,7 +72,7 @@ Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , e
  
  ![Discos.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Discos.png)
  
- - Cuarto paso es **Administración**
+ - Cuarto paso es **Administración**, aqui se puede habilitar las herramientas de controlsi fuese necesario.
  ![Admnistracion.png](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Admnistracion.png)
  
  
@@ -78,65 +87,41 @@ Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , e
  - Último paso **Revizar y Crear**
  
  ![revisar%20y%20crear.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/revisar%20y%20crear.png)
+ 
+ - Una vez terminado todo ese proceso se debe esperar que se complete la implemenatación
+ .
+ ![Finalizacion.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Finalizacion.png)
+ 
+ - Aparecerá un botón  azul **Ir al recurso**, damos click  y permitirá vizualizar las características de la máquina creada, en el botón que se encuentraen el circulo
+ **Conectar**  y la opción **RDP** nos permitirá ingresar a la Maquina Creada.
+ 
+ ![Caracteristicasmaquinacreada.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Caracteristicasmaquinacreada.png)
+ 
+ Al ingresar en el botón antes mencionado nos dirige a la siguiente pantalla donde nos permitirá descargar la Máquina en el computador.
+ 
+  ![Conectar.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Conectar.png)
+  
+  Damos Click sobre la descarga se cargara la conexión y se generará la pantalla, para añadir el usuario y la contraseña, que serán lo generado  **Datos Básicos**
+  
+ ![Credenciales.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Credenciales.png)
+ 
+ Damos click en Aceptar y se abre la Máquina Creada.
 
+ ![M%C3%A1quinaMicrosoftAzure.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/M%C3%A1quinaMicrosoftAzure.png)
+ 
+ ![ESCRITORIO.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/ESCRITORIO.png) 
+ 
+ 
+## Bibliografia
+
+* Ramirez, I. (25 de Julio de 2016). Xataka. Obtenido de Máquinas virtuales: qué son, cómo funcionan y cómo utilizarlas: https://www.xataka.com/especiales/maquinas-virtuales-que-son-como-funcionan-y-como-utilizarlas
+* Ibermatica. (7 de mayo de 2019). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
+* Microsoft Azure. (2020). Azure. Recuperado de:https://azure.microsoft.com/en-us/free/students/
+
+  
+  
+ 
+ 
  
 
-
- 
-
-
-
-
-
-
-6.Click en crear un recurso.
-
-
-
-7.Para ejemplificar se escogió Windows Server 2016 Datacenter.Click en Windows Server 2016
-
-
-
-8.Se abrirá una nueva ventana para configurar la máquina virtual que se escogió con anterioridad tomando en cuenta que el usuario tiene libre albedrío de configurar la máquina a su deseo y necesidades.
-
-En la nueva ventana ir a la pestaña Datos básicos y asignar parámetros como:
-
-8.1 Definir la suscripción en la cual el usuario esté registrado, en este caso Azure para estudiantes.
-
-8.2 Seleccionar el grupo de recursos, en caso de no existir pulsar en el botón Crear nuevo.
-
-8.3 Asignar un nombre a la máquina virtual la cual debe tener como máximo 15 caracteres, no incluir caracteres especiales y para esto Azure validara cada condición.
-
-8.4 Definir la zona donde se ha de ubicar dicha máquina virtual.
-
-La sección Tamaño se crea con los parámetros por defecto que son:
-
-8.5 3.5 GB de memoria RAM
-
-8.6 Un procesador virtual.
-
-8.7 Disco de datos de 4 GB 
-
-En la parte inferior configurar el nombre del usuario Administrador y crear una contraseña. Esta contraseña debe tener al menos 12 caracteres de largo y cumplir con los requisitos de complejidad definidos por Azure. En el campo Reglas de puerto de entrada, seleccionar la casilla Permitir los puertos seleccionados y luego seleccionar RDP 3389, HTTP, HTTPS en la lista desplegable con el fin de permitir el acceso externo a la máquina virtual. Click en siguiente.
-
-
-En la siguiente sección llamada Discos, seleccionar entre alguno de los siguientes tipos de disco duro: SSD Premium, SSD Estándar, HDD Estándar. Recordar que los discos de estado sólido (SDD), ofrecen mejor velocidad de inicio, apagado y lectura/escritura. Click en siguiente.
-
-
-En la pestaña Redes se puede agregar nuevos adaptadores de red y establecer nuevos rangos de IP si es necesario, en este caso se dejaron los parámetros por defecto. Click en siguiente
-
-
-En la sección Administración se puede habilitar o no el uso de herramientas de control como: Diagnóstico de arranque, diagnóstico de sistema invitado, apagado automático, etc. Click en siguiente. 
-
-En la sección Opciones avanzadas será posible añadir configuraciones, agentes, scripts o aplicaciones adicionales a través de las extensiones de máquina virtual o cloud-init. En este caso el usuario decidió no añadir. Click en siguiente.  
-
-En la pestaña Etiquetas se puede crear nuevas etiquetas, estas son pares de nombre-valor las cuales dan la facilidad de categorizar los recursos y de este modo acceder a una facturación consolidada a través de la aplicación de la misma etiqueta en varios recursos y grupos de recursos en Azure, como es una versión gratuita no es necesario. Click en siguiente 
-
-En la última pestaña Revisar y crear observa un resumen de la máquina de Windows Server 2016 Datacenter a crear a través del Portal Azure, click en crear 
-
-18.Al finalizar la implementación de la máquina virtual, click en Ir al recurso. 
-
-19.Se abre una ventana donde se observan las características de máquina virtual, dar click en Conectar y elegir la opción RDP. 
-
-20.Click en descargar archivo RDP.  21.Click en descargar archivo RDP  22.Ingresar el usuario y la contraseña.Click en aceptar  23.Click en Si  24.Finalmente se obtiene la máquina virtual  
 
