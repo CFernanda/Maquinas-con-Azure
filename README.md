@@ -6,8 +6,9 @@ Las màquinas virtuales hoy en día son de gran utilidad para almacenar datos o 
 
 Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
-## Marco Teórico   
-**MICROSOFT AZURE**
+## Marco Teórico  
+
+**Microsoft Azure**
 
 Permite crear, administrar e implementar aplicaciones en cualquier lugar con Azure. se puede usar los lenguajes, los marcos y la infraestructura que prefiera, incluso su propio centro de datos y otras nubes.
 Microsoft Azure ofrece una gama de opciones cuando se trata de la virtualización.
@@ -31,7 +32,7 @@ En la plataforma Microsoft Azure la inversiòn en máquinas fisicas ya no es nec
 
 En microsoft Azure se paga por lo que realmente se usa tiene herramientas para poder monitorizar el rendimiento y así predecir si es necesario escalar o no nuestras máquinas.
  
- **PRECIOS DE MÁQUINAS VIRTUALES**
+ **Precios de Máquinas Virtuales**
 
 El precio de las máquinas virtuales en Azure no es exactamente sencillo. Existen cientos de máquinas virtuales disponibles, todas con diferentes puntos de precios.
 
@@ -51,7 +52,7 @@ Con la opción de pago por uso, pagas por la capacidad de la máquina virtual qu
 *Instancias de máquinas virtuales reservadas
 
 Para aquellos que pueden gastar un poco más por adelantado, las máquinas virtuales de Azure se pueden reservar por adelantado. Si los usuarios se comprometen financieramente a una Instancia de máquina virtual reservada de Azure durante uno o tres años, pueden ahorrar hasta un 72 por ciento en el pago a medida que se van realizando los pagos. A pesar del compromiso, las Instancias de máquinas virtuales reservadas son todavía bastante flexibles y pueden intercambiarse o devolverse si resultan inadecuadas.
- 
+  
 **Productos de Microsoft Azure**
 
 - Virtual Machines
@@ -75,7 +76,7 @@ Agregue funcionalidad de API inteligentes para habilitar interacciones contextua
 - Azure Quantum
 Descubra ahora el impacto de la tecnología cuántica en Azure.
 
-## MANUAL DE USUARIO
+## Manual de Usuario.
 
 En esta ocasion se puede tener dos opciones si tienes una tarjeta de crédito te diridiras a un link, caso contrario deberás entrar como estudiante teniendo en cuenta que alli también debes verificar tu cuenta si perteneces a alguna institucion, ya que se usara la cuenta educativa.
 Se creo la de estudiante
