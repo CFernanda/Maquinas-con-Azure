@@ -1,33 +1,75 @@
 # Maquinas-con-Azure
 ## Introducción
-Las maquinas virtuales hoy en día son de gran utilidad para almacenar datos o trabajar en sistemas operativos totalmente diferentes o incluso los mismos con la finalidad de que todos los datos sean personales o a nivel de empresas tener la certeza de que tus datos quedaran guardados en lugar seguro y habil en cualquier momento y lugar  Microsoft ofrece un servicio para el uso de este tipo de sistemas en su plataforma Azure en la cúal se generara una máquina virtual. 
+Las màquinas virtuales hoy en día son de gran utilidad para almacenar datos o trabajar en sistemas operativos totalmente diferentes o incluso los mismos con la finalidad de que todos los datos sean personales o a nivel de empresas tener la certeza de que tus datos quedaran guardados en lugar seguro y habil en cualquier momento y lugar  Microsoft ofrece un servicio para el uso de este tipo de sistemas en su plataforma Azure en la cúal se generara una máquina virtual. 
 
 ## Objetivo
 
 Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
-**MÁQUINA VIRTUAL**
-
- Es un software que permite emular el funcionamiento de un ordenador dentro de otro mendiante el encapsulamiento que aísla a ambos.Puede ejecutar cualquier sistema operativo o programa, sin que nada de lo que suceda en el interior de esa ventana afecte al ordenador que la ejecuta.
-Se puede trabajar con varios sistemas operativos al mismo tiempo en un mismo ordenador por ejemplo se podria usar Linux y windows.
-
-   ![Img3MaquinaVirtual.png](https://github.com/CFernanda/Maquinas-Virtuales-Amazon-Ec2/blob/master/imagenenes/Img3MaquinaVirtual.png)  
+MARCO TEÓRICO
    
 **MICROSOFT AZURE**
 
+Permite crear, administrar e implementar aplicaciones en cualquier lugar con Azure. se puede usar los lenguajes, los marcos y la infraestructura que prefiera, incluso su propio centro de datos y otras nubes.
 Microsoft Azure ofrece una gama de opciones cuando se trata de la virtualización.
-Con las opciones para usuarios de Linux, Windows Server, SQL Server, Oracle, IBM y SAP, las máquinas virtuales de Azure están disponibles de forma gratuita, con tamaños y niveles de rendimiento para adaptarse a las diferentes necesidades comerciales. Los clientes pueden crear sus propias máquinas virtuales o elegir entre una selección de plantillas preconfiguradas. Azure tiene cientos de opciones de máquinas virtuales para elegir, adaptadas a regiones geográficas particulares, núcleo, RAM y requisitos de almacenamiento, tanto en sistemas operativos Windows como Linux.
+Con las opciones para usuarios de Linux, Windows Server, SQL Server, Oracle, IBM y SAP, las máquinas virtuales de Azure están disponibles de forma gratuita, con tamaños y niveles de rendimiento para adaptarse a las diferentes necesidades comerciales. 
+Los clientes pueden crear sus propias máquinas virtuales o elegir entre una selección de plantillas preconfiguradas. Azure tiene cientos de opciones de máquinas virtuales para elegir, adaptadas a regiones geográficas particulares, núcleo, RAM y requisitos de almacenamiento, tanto en sistemas operativos Windows como Linux.
 
  ![1Azure.jpg](https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/1Azure.jpg) 
  
+ Al registrarse se obtiene una cuenta gratuita de Azure con:
+- 12 meses de servicios gratuitos, como Compute, Storage, Networks y SQL Database.
+- Más de 25 servicios que siempre son gratuitos, entre los que se incluyen: informática sin servidor, contenedores e inteligencia artificial.
+- Crédito de $200 para explorar cualquier servicio de Azure durante 30 días.
+ 
+**Ventajas**
+1) Flexibilidad 
 
-**CLOUD COMPUTING**
+En la plataforma Microsoft Azure la inversiòn en máquinas fisicas ya no es necesaria, se simplifica el despliegue ya que la amortizaciòn con esta plataforma ya no es de periodos largos en poco tiempo se puede adaptar nuestros sistemas a nuestras necesidades con total flexibilidad. 
 
-  Cloud computing, o computación en nube, se define como una tecnología que ofrece servicios a través de la plataforma de internet.Se puede acceder a este tipo de serviciosde 
-forma  gratuita o de pago, según las necesidades que tenga uno. Este modelo está inspirado en los cajeros automáticos, los que permiten acceder al dinero y servicios disponibles desde cualquier terminal habilitado. Luego esa idea se llevó a la red internet, y es lo que conocemos actualmente como cloud computing. Esta tecnología se destaca por ofrecer todos sus servicios de forma remota a través de esta analogía de "nube virtual", y uno como usuario de este servicio no necesita un dispositivo de última generación para utilizar los servicios de esta nube, ya que todo se ejecuta desde la misma, lo que se traduce en la ausencia de descarga y actualización de software. (Leyton & Fernández, 2010)
-                        
-   ![Imagen1%20Cloud%20Company.png](https://github.com/CFernanda/Maquinas-Virtuales-Amazon-Ec2/blob/master/imagenenes/Imagen1%20Cloud%20Company.png)  
+2) Pago por uso
 
+En microsoft Azure se paga por lo que realmente se usa tiene herramientas para poder monitorizar el rendimiento y así predecir si es necesario escalar o no nuestras máquinas.
+ 
+ **PRECIOS DE MÀQUINAS VIRTUALES**
+
+El precio de las máquinas virtuales en Azure no es exactamente sencillo. Existen cientos de máquinas virtuales disponibles, todas con diferentes puntos de precios.
+*Tienen un precio por segundo y se pueden usar de una de las dos formas siguientes:
+
+- Forma de pago por uso o reservadas.  
+- La tarifa que se paga por cada máquina virtual depende de varios factores: 
+     - La instancia que elijas: cuanto más potentes sean, más costarán
+     - Si la contratas sobre la marcha o reserva una instancia por adelantado, y por cuánto tiempo
+     - En qué lugar del mundo está basado (los precios varían ligeramente según la región)
+*Paga a medida que avanzas
+
+Con la opción de pago por uso, pagas por la capacidad de la máquina virtual que está utilizando por segundo. 
+
+*Instancias de máquinas virtuales reservadas
+
+Para aquellos que pueden gastar un poco más por adelantado, las máquinas virtuales de Azure se pueden reservar por adelantado. Si los usuarios se comprometen financieramente a una Instancia de máquina virtual reservada de Azure durante uno o tres años, pueden ahorrar hasta un 72 por ciento en el pago a medida que se van realizando los pagos. A pesar del compromiso, las Instancias de máquinas virtuales reservadas son todavía bastante flexibles y pueden intercambiarse o devolverse si resultan inadecuadas.
+ 
+**Productos de Microsoft Azure**
+- Virtual Machines
+Aprovisione las máquinas virtuales de Windows y Linux en segundos
+- Windows Virtual Desktop
+La mejor experiencia de escritorio virtual, entregada en Azure
+- SQL de Azure
+Nueva familia de SQL para la migración y modernización de aplicaciones
+- App Service
+Cree eficaces aplicaciones en la nube con rapidez para la Web y móviles
+- Azure Cosmos DB
+Base de datos multimodelo distribuida globalmente para cualquier escala
+- PlayFab
+La plataforma de back-end de LiveOps completa para crear y operar juegos en directo
+- Azure Kubernetes Service (AKS)
+Simplificar la implementación, la administración y las operaciones de Kubernetes
+- Azure Functions
+Eventos de proceso con código sin servidor
+- Cognitive Services
+Agregue funcionalidad de API inteligentes para habilitar interacciones contextuales
+- Azure Quantum
+Descubra ahora el impacto de la tecnología cuántica en Azure.
 
 MANUAL DE USUARIO
 
@@ -101,7 +143,8 @@ Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , e
  
   ![Conectar.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Conectar.png)
   
-  Damos Click sobre la descarga se cargara la conexión y se generará la pantalla, para añadir el usuario y la contraseña, que serán lo generado  **Datos Básicos**
+  Damos Click sobre la descarga se cargara la conexión y se generará la pantalla, para añadir el usuario y la contraseña, que serán lo generado 
+  **Datos Básicos**
   
  ![Credenciales.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/Credenciales.png)
  
@@ -114,9 +157,9 @@ Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , e
  
 ## Bibliografia
 
-* Ramirez, I. (25 de Julio de 2016). Xataka. Obtenido de Máquinas virtuales: qué son, cómo funcionan y cómo utilizarlas: https://www.xataka.com/especiales/maquinas-virtuales-que-son-como-funcionan-y-como-utilizarlas
-* Ibermatica. (7 de mayo de 2019). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
+* Ibermatica. (2020). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
 * Microsoft Azure. (2020). Azure. Recuperado de:https://azure.microsoft.com/en-us/free/students/
+* Tecón.(7 de mayo del 2019).Obtenidohttps:https://www.tecon.es/que-es-microsoft-azure-como-funciona/#:~:text=%C2%BFQu%C3%A9%20es%20Azure%3F,centros%20de%20datos)%20de%20Microsoft.
 
   
   
