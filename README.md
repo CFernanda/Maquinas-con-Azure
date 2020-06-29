@@ -6,7 +6,7 @@ Las màquinas virtuales hoy en día son de gran utilidad para almacenar datos o 
 
 Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
-## MARCO TEÓRICO   
+## Marco Teórico   
 **MICROSOFT AZURE**
 
 Permite crear, administrar e implementar aplicaciones en cualquier lugar con Azure. se puede usar los lenguajes, los marcos y la infraestructura que prefiera, incluso su propio centro de datos y otras nubes.
