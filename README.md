@@ -1,4 +1,4 @@
-# Maquinas-con-Azure
+# Máquinas-con-Azure
 ## Introducción
 Las màquinas virtuales hoy en día son de gran utilidad para almacenar datos o trabajar en sistemas operativos totalmente diferentes o incluso los mismos con la finalidad de que todos los datos sean personales o a nivel de empresas tener la certeza de que tus datos quedaran guardados en lugar seguro y habil en cualquier momento y lugar  Microsoft ofrece un servicio para el uso de este tipo de sistemas en su plataforma Azure en la cúal se generara una máquina virtual. 
 
@@ -6,8 +6,7 @@ Las màquinas virtuales hoy en día son de gran utilidad para almacenar datos o 
 
 Crear máquinas virtuales en Microsoft Azure familiarizarse con la plataforma y hacer uso de los beneficios  que nos brinda, esta nube con el fin de ocuparla en el entorno estudiantil.
 
-MARCO TEÓRICO
-   
+## MARCO TEÓRICO   
 **MICROSOFT AZURE**
 
 Permite crear, administrar e implementar aplicaciones en cualquier lugar con Azure. se puede usar los lenguajes, los marcos y la infraestructura que prefiera, incluso su propio centro de datos y otras nubes.
@@ -23,6 +22,7 @@ Los clientes pueden crear sus propias máquinas virtuales o elegir entre una sel
 - Crédito de $200 para explorar cualquier servicio de Azure durante 30 días.
  
 **Ventajas**
+
 1) Flexibilidad 
 
 En la plataforma Microsoft Azure la inversiòn en máquinas fisicas ya no es necesaria, se simplifica el despliegue ya que la amortizaciòn con esta plataforma ya no es de periodos largos en poco tiempo se puede adaptar nuestros sistemas a nuestras necesidades con total flexibilidad. 
@@ -31,16 +31,19 @@ En la plataforma Microsoft Azure la inversiòn en máquinas fisicas ya no es nec
 
 En microsoft Azure se paga por lo que realmente se usa tiene herramientas para poder monitorizar el rendimiento y así predecir si es necesario escalar o no nuestras máquinas.
  
- **PRECIOS DE MÀQUINAS VIRTUALES**
+ **PRECIOS DE MÁQUINAS VIRTUALES**
 
 El precio de las máquinas virtuales en Azure no es exactamente sencillo. Existen cientos de máquinas virtuales disponibles, todas con diferentes puntos de precios.
+
 *Tienen un precio por segundo y se pueden usar de una de las dos formas siguientes:
 
-- Forma de pago por uso o reservadas.  
+- Forma de pago por uso o reservadas. 
+
 - La tarifa que se paga por cada máquina virtual depende de varios factores: 
      - La instancia que elijas: cuanto más potentes sean, más costarán
      - Si la contratas sobre la marcha o reserva una instancia por adelantado, y por cuánto tiempo
      - En qué lugar del mundo está basado (los precios varían ligeramente según la región)
+     
 *Paga a medida que avanzas
 
 Con la opción de pago por uso, pagas por la capacidad de la máquina virtual que está utilizando por segundo. 
@@ -50,28 +53,29 @@ Con la opción de pago por uso, pagas por la capacidad de la máquina virtual qu
 Para aquellos que pueden gastar un poco más por adelantado, las máquinas virtuales de Azure se pueden reservar por adelantado. Si los usuarios se comprometen financieramente a una Instancia de máquina virtual reservada de Azure durante uno o tres años, pueden ahorrar hasta un 72 por ciento en el pago a medida que se van realizando los pagos. A pesar del compromiso, las Instancias de máquinas virtuales reservadas son todavía bastante flexibles y pueden intercambiarse o devolverse si resultan inadecuadas.
  
 **Productos de Microsoft Azure**
+
 - Virtual Machines
-Aprovisione las máquinas virtuales de Windows y Linux en segundos
+Aprovisione las máquinas virtuales de Windows y Linux en segundos.
 - Windows Virtual Desktop
-La mejor experiencia de escritorio virtual, entregada en Azure
+La mejor experiencia de escritorio virtual, entregada en Azure.
 - SQL de Azure
-Nueva familia de SQL para la migración y modernización de aplicaciones
+Nueva familia de SQL para la migración y modernización de aplicaciones.
 - App Service
-Cree eficaces aplicaciones en la nube con rapidez para la Web y móviles
+Cree eficaces aplicaciones en la nube con rapidez para la Web y móviles.
 - Azure Cosmos DB
-Base de datos multimodelo distribuida globalmente para cualquier escala
+Base de datos multimodelo distribuida globalmente para cualquier escala.
 - PlayFab
-La plataforma de back-end de LiveOps completa para crear y operar juegos en directo
+La plataforma de back-end de LiveOps completa para crear y operar juegos en directo.
 - Azure Kubernetes Service (AKS)
-Simplificar la implementación, la administración y las operaciones de Kubernetes
+Simplificar la implementación, la administración y las operaciones de Kubernetes.
 - Azure Functions
-Eventos de proceso con código sin servidor
+Eventos de proceso con código sin servidor.
 - Cognitive Services
-Agregue funcionalidad de API inteligentes para habilitar interacciones contextuales
+Agregue funcionalidad de API inteligentes para habilitar interacciones contextuales.
 - Azure Quantum
 Descubra ahora el impacto de la tecnología cuántica en Azure.
 
-MANUAL DE USUARIO
+## MANUAL DE USUARIO
 
 En esta ocasion se puede tener dos opciones si tienes una tarjeta de crédito te diridiras a un link, caso contrario deberás entrar como estudiante teniendo en cuenta que alli también debes verificar tu cuenta si perteneces a alguna institucion, ya que se usara la cuenta educativa.
 Se creo la de estudiante
@@ -155,7 +159,7 @@ Al crear la cuenta es necesario llenar todos los datos que solicita teniendo , e
  ![ESCRITORIO.png]( https://github.com/CFernanda/Maquinas-con-Azure/blob/master/IMG/ESCRITORIO.png) 
  
  
-## Bibliografia
+## Bibliografía
 
 * Ibermatica. (2020). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
 * Microsoft Azure. (2020). Azure. Recuperado de:https://azure.microsoft.com/en-us/free/students/
